@@ -1,0 +1,4 @@
+,actual_delivery_days,estimated_delivery_days,delivery_delay_days
+actual_delivery_days,1.0,0.5221573630300583,0.31119104638660167
+estimated_delivery_days,0.5221573630300583,1.0,-0.5675632379638542
+delivery_delay_days,0.31119104638660167,-0.5675632379638542,1.0

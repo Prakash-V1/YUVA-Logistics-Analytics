@@ -1,0 +1,9 @@
+Total orders: 99,441
+Delivered with duration: 96,476
+Known outcomes: 96,476
+On-time rate: 91.89%
+Late rate: 8.11%
+Mean days: 12.56
+Median days: 10.22
+90th percentile days: 23.10
+Charts saved to: C:\Users\SenthamizhSelvan\OneDrive\Desktop\Prakash\YUVA-Data Analyst\reports\week3_visualizations
